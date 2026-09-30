@@ -46,6 +46,13 @@ O usuário pode realizar seu cadastro e acessar a plataforma utilizando e-mail e
   <img src="docs/gifs/login.gif" width="300">
 </p>
 
+### Cadastro
+
+O usuário pode realizar seu cadastro na plataforma informando seu nome, profissão, e-mail e senha.
+
+<p align="center">
+  <img src="docs/gifs/cadastro.gif" width="300">
+</p>
 
 ### Tela Inicial
 
