@@ -64,10 +64,10 @@ Após a autenticação, o usuário é direcionado à tela principal da aplicaç�
 
 ### Gerenciamento de Equipes
 
-A aplicação permite a criação e o gerenciamento de equipes de trabalho.
+O usuário pode criar e gerenciar equipes dentro da plataforma.
 
 <p align="center">
-  <img src="docs/gifs/criar-equipe.gif" width="300">
+  <img src="docs/gifs/gerenciamento.gif" width="300">
 </p>
 
 ### Convites
