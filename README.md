@@ -96,16 +96,16 @@ O usuário pode consultar e gerenciar suas informações pessoais cadastradas na
 
 ---
 
-## Tecnologias Utilizadas
+## ## Tecnologias Utilizadas
 
-| Tecnologia              | Aplicação                               |
-| ----------------------- | --------------------------------------- |
-| Kotlin                  | Desenvolvimento da aplicação Android    |
-| Android Studio          | Ambiente de desenvolvimento             |
-| Firebase Authentication | Autenticação dos usuários               |
-| Firebase Firestore      | Armazenamento e gerenciamento dos dados |
-| Material Design         | Desenvolvimento da interface            |
-| Kotlin Coroutines       | Execução de operações assíncronas       |
+|                                 Logo                                | Tecnologia              | Aplicação                               |
+| :-----------------------------------------------------------------: | ----------------------- | --------------------------------------- |
+|     <img src="https://skillicons.dev/icons?i=kotlin" width="30">    | Kotlin                  | Desenvolvimento da aplicação Android    |
+| <img src="https://skillicons.dev/icons?i=androidstudio" width="30"> | Android Studio          | Ambiente de desenvolvimento             |
+|    <img src="https://skillicons.dev/icons?i=firebase" width="30">   | Firebase Authentication | Autenticação dos usuários               |
+|    <img src="https://skillicons.dev/icons?i=firebase" width="30">   | Firebase Firestore      | Armazenamento e gerenciamento dos dados |
+|   <img src="https://skillicons.dev/icons?i=materialui" width="30">  | Material Design         | Desenvolvimento da interface            |
+|     <img src="https://skillicons.dev/icons?i=kotlin" width="30">    | Kotlin Coroutines       | Execução de operações assíncronas       |
 
 ---
 
