@@ -1,8 +1,5 @@
 # Plataforma Colaborativa de Trabalho Remoto
 
-<p align="center">
-  <img src="docs/gifs/tela-inicial.gif" width="300">
-</p>
 
 <p align="center">
   Aplicativo mobile desenvolvido para auxiliar na organização,
