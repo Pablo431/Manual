@@ -96,9 +96,9 @@ O usuário pode consultar e gerenciar suas informações pessoais cadastradas na
 
 ---
 
-## ## Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-|                                 Logo                                | Tecnologia              | Aplicação                               |
+|                                                                     | Tecnologia              | Aplicação                               |
 | :-----------------------------------------------------------------: | ----------------------- | --------------------------------------- |
 |     <img src="https://skillicons.dev/icons?i=kotlin" width="30">    | Kotlin                  | Desenvolvimento da aplicação Android    |
 | <img src="https://skillicons.dev/icons?i=androidstudio" width="30"> | Android Studio          | Ambiente de desenvolvimento             |
