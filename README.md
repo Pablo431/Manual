@@ -179,3 +179,17 @@ O manual apresenta as principais funcionalidades da aplicação e fornece instru
 **Linguagem:** Kotlin
 
 **Banco de dados:** Firebase Firestore
+
+**Autenticação:** Firebase Authentication
+
+**Interface:** Material Design
+
+### Sobre o projeto
+
+A Plataforma Colaborativa de Trabalho Remoto (CTR) é um aplicativo mobile Android desenvolvido para apoiar a colaboração, organização e acompanhamento de atividades em equipes que trabalham remotamente.
+
+O aplicativo permite o cadastro e autenticação de usuários, criação e gerenciamento de equipes, criação de equipes privadas, envio de convites por e-mail e pedidos de entrada em equipes.
+
+Também possibilita a criação, edição, consulta e exclusão de trabalhos (tarefas), além do acompanhamento de seus status. O sistema conta ainda com gerenciamento de membros, perfil do usuário e notificações de convites pendentes.
+
+Os dados são armazenados na nuvem utilizando o Firebase Cloud Firestore, enquanto a autenticação é realizada por meio do Firebase Authentication.
