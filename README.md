@@ -112,7 +112,7 @@ A aplicação utiliza o **Firebase Cloud Firestore** como banco de dados não re
 
 O sistema possui entidades que representam usuários e trabalhos, permitindo o relacionamento entre eles. Um usuário pode participar de vários trabalhos, enquanto um trabalho pode contar com a participação de vários usuários, caracterizando uma relação **muitos para muitos (N:N)**.
 
-### Estrutura do Banco de Dados
+Estrutura do Banco de Dados
 
 ```text
 ┌──────────────┐        (0,n)        ┌─────────────────────┐        (0,n)        ┌──────────────┐
@@ -125,7 +125,7 @@ id, nome, email, senha,                                                         
 profissao                                                                          descricao, categoria
 ---
 
-## Arquitetura
+Arquitetura
 
 O projeto utiliza uma arquitetura baseada em um modelo MVC simplificado, no qual cada tela principal da aplicação é representada por uma `Activity`.
 
@@ -135,7 +135,7 @@ O fluxo de autenticação utiliza o Firebase Authentication, enquanto os dados c
 
 ---
 
-## Estrutura do Projeto
+Estrutura do Projeto
 
 ```text
 CTR_App-Comunidade_de_Trabalho_Remoto_Aplicativo/
