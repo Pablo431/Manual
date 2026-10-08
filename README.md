@@ -108,19 +108,21 @@ O usuário pode consultar e gerenciar suas informações pessoais cadastradas na
 
 ## Banco de Dados
 
-A aplicação utiliza o Firebase Firestore como banco de dados não relacional.
+A aplicação utiliza o **Firebase Cloud Firestore** como banco de dados não relacional (NoSQL).
 
-As principais coleções utilizadas são:
+O sistema possui entidades que representam usuários e trabalhos, permitindo o relacionamento entre eles. Um usuário pode participar de vários trabalhos, enquanto um trabalho pode contar com a participação de vários usuários, caracterizando uma relação **muitos para muitos (N:N)**.
+
+### Estrutura do Banco de Dados
 
 ```text
-usuarios
-equipes
-membros_equipe
-convites_equipe
-trabalhos
-pedidos_entrada
-```
-
+┌──────────────┐        (0,n)        ┌─────────────────────┐        (0,n)        ┌──────────────┐
+│   Usuário    │ ──────────────────► │  participa / realiza │ ◄────────────────── │   Trabalho   │
+└──────────────┘                     └─────────────────────┘                     └──────────────┘
+       │                                                                                │
+       │                                                                                │
+       ▼                                                                                ▼
+id, nome, email, senha,                                                          id, titulo, prazo,
+profissao                                                                          descricao, categoria
 ---
 
 ## Arquitetura
