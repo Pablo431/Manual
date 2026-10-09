@@ -97,15 +97,13 @@ O usuário pode consultar e gerenciar suas informações pessoais cadastradas na
 
 |                                                                     | Tecnologia              | Aplicação                               |
 | :-----------------------------------------------------------------: | ----------------------- | --------------------------------------- |
-|     <img src="https://skillicons.dev/icons?i=kotlin" width="30">    | Kotlin                  | Desenvolvimento da aplicação Android    |
-| <img src="https://skillicons.dev/icons?i=androidstudio" width="30"> | Android Studio          | Ambiente de desenvolvimento             |
-|    <img src="https://skillicons.dev/icons?i=firebase" width="30">   | Firebase Authentication | Autenticação dos usuários               |
-|    <img src="https://skillicons.dev/icons?i=firebase" width="30">   | Firebase Firestore      | Armazenamento e gerenciamento dos dados |
-|   <img src="https://skillicons.dev/icons?i=materialui" width="30">  | Material Design         | Desenvolvimento da interface            |
-|     <img src="https://skillicons.dev/icons?i=kotlin" width="30">    | Kotlin Coroutines       | Execução de operações assíncronas       |
-
----
-
+| [<img src="https://skillicons.dev/icons?i=kotlin" width="30">](https://kotlinlang.org/) | Kotlin | Desenvolvimento da aplicação Android |
+| [<img src="https://skillicons.dev/icons?i=androidstudio" width="30">](https://developer.android.com/studio) | Android Studio | Ambiente de desenvolvimento |
+| [<img src="https://skillicons.dev/icons?i=firebase" width="30">](https://firebase.google.com/docs/auth) | Firebase Authentication | Autenticação dos usuários |
+| [<img src="https://skillicons.dev/icons?i=firebase" width="30">](https://firebase.google.com/docs/firestore) | Firebase Firestore | Armazenamento e gerenciamento dos dados |
+| [<img src="https://skillicons.dev/icons?i=materialui" width="30">](https://m3.material.io/) | Material Design | Desenvolvimento da interface |
+| [<img src="https://skillicons.dev/icons?i=kotlin" width="30">](https://kotlinlang.org/docs/coroutines-overview.html) | Kotlin Coroutines | Execução de operações assíncronas |
+| [<img src="https://img.shields.io/badge/API-REST-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30">](https://firebase.google.com/docs) | API / Integração com serviços | Comunicação e integração com serviços externos, quando aplicável |
 ## Banco de Dados
 
 A aplicação utiliza o **Firebase Cloud Firestore** como banco de dados não relacional (NoSQL).
